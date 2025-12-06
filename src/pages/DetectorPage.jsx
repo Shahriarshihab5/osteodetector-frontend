@@ -51,7 +51,7 @@ function DetectorPage() {
     formData.append("image", file);
 
     try {
-      const res = await fetch("https://osteodetector-backend.onrender.com/predict", {
+      const res = await fetch("https://osteodetector-backend-1.onrender.com/predict", {
         method: "POST",
         body: formData,
       });
