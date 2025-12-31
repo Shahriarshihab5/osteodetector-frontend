@@ -52,7 +52,7 @@ function Navbar() {
             </NavLink>
 
             <a
-              href="/#niche_nam"
+              href="/#stats"
               className="px-4 py-2 rounded-xl text-sm font-semibold transition-all duration-300 text-slate-300 hover:text-white hover:bg-slate-700 flex items-center gap-2"
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
