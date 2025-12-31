@@ -602,7 +602,7 @@ function DetectorPage() {
             </div>
 
             {/* Stats Dashboard */}
-            <div className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl border-2 border-slate-700 p-6 shadow-2xl text-white">
+            <div id="stats" className="bg-gradient-to-br from-slate-900 to-slate-800 rounded-2xl border-2 border-slate-700 p-6 shadow-2xl text-white">
               <h3 className="text-lg font-bold mb-4 flex items-center gap-2">
                 <span className="text-xl">📊</span>
                 Global OA Prevalence
